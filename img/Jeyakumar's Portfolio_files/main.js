@@ -41,8 +41,6 @@ $(document).ready(function () {
         }
     })
 
-
-
     // sticky navigation menu
 
     let nav_offset_top = $('.header_area').height() + 50;
@@ -63,4 +61,3 @@ $(document).ready(function () {
     navbarFixed();
 
 });
-
